@@ -1,5 +1,12 @@
-# To-do list app
-> This project consists of a small to-do list application using Node.js and Apollo Server.
+# Todolist
+## About The Project
+This project consists of a small to-do list application using Node.js and Apollo Server. [View Demo](https://codesandbox.io/s/github/guigaoliveira/node-apollo-todolist).
+### Built With
+* Node.js
+* Apollo Server
+* Prettier
+* Eslint
+* Jest
 
 ## Getting Started
 
